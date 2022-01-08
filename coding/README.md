@@ -7,3 +7,5 @@ lesson 4: [gyro turns](gyro_turns.md)<br>
 lesson 5: [gyro straight](gyro_straight.md)<br>
 lesson 6: [my blocks](my_blocks.md)<br>
 lesson 7: [coming soon](README.md)<br>
+
+[← Return to main page](../README.md)
